@@ -6,3 +6,5 @@ Wrote optimized SQL queries to analyze datasets and derive insights
 Used JOINs, aggregations, and filtering to answer business questions
 
 Schema- Music Store Database
+![Dashboard Preview](schema_diagram.png)
+
